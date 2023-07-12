@@ -44,7 +44,7 @@ Graduated: 2018
 # Contact
 <dl>
   <dt>Email</dt>
-  <dd>tjwjd4605@g.skku.edu</dd>
+  <dd>tjwjd4605@naver.com</dd>
   <dt>Github</dt>
   <dd>https://github.com/SeoJeong1105</dd>
 </dl>
